@@ -53,3 +53,4 @@ picture ![cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_Nov
 
 ## Удаленые репозитории
 
+Удаленный репозиторий это облачное хранилище ваших файлов.
